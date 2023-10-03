@@ -16,6 +16,6 @@ int main() {
 		scanf("%s",&consulta); 
 	}
 	mitja=suma/numero_repeticions;
-	printf("blanco24 La mitja és: %.2f\n",mitja);	
+	printf("blanco24 La mitja es: %.2f\n",mitja);	
 	return 0;
 }
